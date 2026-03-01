@@ -1,0 +1,6 @@
+C:/Users/dartn/source/repos/lab_2_3/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/dartn/source/repos/lab_2_3/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/dartn/source/repos/lab_2_3/build/university/CMakeFiles/university.dir
+C:/Users/dartn/source/repos/lab_2_3/build/university/CMakeFiles/ALL_BUILD.dir
+C:/Users/dartn/source/repos/lab_2_3/build/lab/CMakeFiles/main.dir
+C:/Users/dartn/source/repos/lab_2_3/build/lab/CMakeFiles/ALL_BUILD.dir

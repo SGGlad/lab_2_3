@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/dartn/source/repos/lab_2_3/build/cmake_install.cmake",
+		"C:/Users/dartn/source/repos/lab_2_3/build/university/cmake_install.cmake",
+		"C:/Users/dartn/source/repos/lab_2_3/build/lab/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

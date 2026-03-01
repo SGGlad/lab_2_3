@@ -1,0 +1,10 @@
+^C:\USERS\DARTN\SOURCE\REPOS\LAB_2_3\BUILD\CMAKEFILES\D5153F96AB5F548FBEDC4DCE1DB147E3\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/dartn/source/repos/lab_2_3 -BC:/Users/dartn/source/repos/lab_2_3/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/dartn/source/repos/lab_2_3/build/lab_2_3.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
