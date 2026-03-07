@@ -5,7 +5,11 @@
 
 
 
-
+void Get_opinion(){
+	std::cout<<"=================\n";
+	std::cout<<"	Opinion \n interest: 6/10 \n fullness: 7/10 \n difficulty: 5/10 \n";
+	std::cout<<"================="<<std::endl;
+}
 
 
 int main() {
@@ -76,4 +80,5 @@ int main() {
 
 	student_3 -= student_2;
 	student_3.get_info();
+	Get_opinion();
 }
